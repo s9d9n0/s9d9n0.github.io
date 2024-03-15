@@ -1,1 +1,1 @@
-site tout simple
+Une page Web pour s'exercer, maintenir ses connaissances et passer le temps à faire des choses plus intéressantes qu'au boulot, service d'un ennui total, sans intérêt, recherche de simplicité et cohérence d'ensemble.
