@@ -1,1 +1,1 @@
-Une page Web pour s'exercer, maintenir ses connaissances et passer le temps à faire des choses plus intéressantes qu'au boulot, service d'un ennui total, sans intérêt, recherche de simplicité et cohérence d'ensemble.
+Une page Web pour s'amuser, apprendre et maintenir ses connaissances, c'est plus fun que le tas de trucs foireux du boulot et ça permet de voir le temps passer plus vite.
